@@ -1,4 +1,4 @@
-# RevisionHelper
+# ReviewHelper
 
 Projeto inicial para auxiliar na revisão de artigos.
 
